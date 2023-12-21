@@ -1,0 +1,13 @@
+.car{
+    display: inline-block;
+    padding-right: 4%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    padding-top: 10%;
+    
+}
+.col{
+    /* background-color:#e0e0e0; */
+    width: 100%;
+       
+}
